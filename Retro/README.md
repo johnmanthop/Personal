@@ -1,1 +1,1 @@
-# repos
+This is a project i made during the summer of 2019, it is basically a retro platformer imitation in sfml & c++. At the time i wasn't in the university so some code might look counter-standard and with mutch simplier solutions existing but at the time i (probably) did not know of them.
