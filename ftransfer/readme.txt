@@ -9,5 +9,8 @@ at text mode type yout message and press enter
 
 There is room for a lot of improvment but I don't have time right now
 
+Note to self: Never use ncurses with multi thread programming
+Also compile with ncurses and pthread...
+
 Known bug: some times (at big files) there is a synchronization error message
 23/2/21
