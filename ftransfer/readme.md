@@ -1,7 +1,5 @@
 C program to send and recieve files and messages between two clients   
-
-Press 0 at the start to act as server   
-
+Press 0 at the start to act as server
 Press 1 at the start to act as client (that is connect to some server)   
 
 Right now only localhost ip works
