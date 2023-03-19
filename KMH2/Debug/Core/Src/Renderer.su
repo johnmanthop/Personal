@@ -1,0 +1,1 @@
+../Core/Src/Renderer.cpp:11:6:static void Renderer::draw(const Drawable_Content&)	32	static

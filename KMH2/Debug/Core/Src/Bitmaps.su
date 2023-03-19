@@ -1,0 +1,1 @@
+../Core/Src/Bitmaps.cpp:10:6:void translate_bitmap_to_rgb(const uint8_t (*)[15], unsigned int (*)[15])	24	static

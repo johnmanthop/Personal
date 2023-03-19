@@ -1,0 +1,19 @@
+../Core/Src/ILI9225.cpp:124:6:void spi_write(unsigned char)	16	static
+../Core/Src/ILI9225.cpp:131:6:void lcd_write_data(unsigned char)	16	static
+../Core/Src/ILI9225.cpp:150:6:void lcd_write_command(unsigned char)	16	static
+../Core/Src/ILI9225.cpp:170:6:void lcd_write_register(unsigned int, unsigned int)	16	static
+../Core/Src/ILI9225.cpp:181:6:void swap_int(int*, int*)	24	static
+../Core/Src/ILI9225.cpp:198:6:void swap_char(char*, char*)	24	static
+../Core/Src/ILI9225.cpp:208:6:void delay_ms(double)	48	static
+../Core/Src/ILI9225.cpp:221:6:void delay_us(long int)	16	static
+../Core/Src/ILI9225.cpp:230:6:void lcd_init()	8	static
+../Core/Src/ILI9225.cpp:260:6:void lcd_init_command_list()	8	static
+../Core/Src/ILI9225.cpp:335:6:void draw_pixel(char, char, unsigned int)	16	static
+../Core/Src/ILI9225.cpp:351:6:void fill_rectangle(char, char, char, char, unsigned int)	32	static
+../Core/Src/ILI9225.cpp:390:6:void set_draw_window(char, char, char, char)	24	static
+../Core/Src/ILI9225.cpp:419:6:void draw_char(char, char, char, unsigned int, char)	48	static
+../Core/Src/ILI9225.cpp:452:6:void draw_fast_char(char, char, char, unsigned int, unsigned int)	48	static
+../Core/Src/ILI9225.cpp:510:6:void draw_string(char, char, unsigned int, char, char*)	40	static
+../Core/Src/ILI9225.cpp:532:6:void draw_fast_string(char, char, unsigned int, unsigned int, char*)	40	static
+../Core/Src/ILI9225.cpp:550:6:void IM_draw_bitmap(int, int, int, const unsigned int (*)[15])	64	static
+../Core/Src/ILI9225.cpp:618:6:void draw_bitmap(int, int, int, int, int, const unsigned int*)	56	static

@@ -1,0 +1,12 @@
+../Core/Inc/Soldier.h:25:6:int Soldier::get_x() const	16	static
+../Core/Src/Soldier.cpp:14:1:Soldier::Soldier()	24	static
+../Core/Src/Soldier.cpp:20:1:Soldier::Soldier(unsigned int (*)[15], int, int)	32	static
+../Core/Src/Soldier.cpp:28:6:void Soldier::reset_pos()	16	static
+../Core/Src/Soldier.cpp:34:6:void Soldier::move_down()	16	static
+../Core/Src/Soldier.cpp:39:6:void Soldier::move_right()	16	static
+../Core/Src/Soldier.cpp:44:6:void Soldier::move_left()	16	static
+../Core/Src/Soldier.cpp:50:6:void Soldier::fire(Soldier*)	24	static
+../Core/Src/Soldier.cpp:68:6:void Soldier::reset_frame()	16	static
+../Core/Src/Soldier.cpp:74:6:void Soldier::die()	16	static
+../Core/Src/Soldier.cpp:79:6:void Soldier::revive()	16	static
+../Core/Src/Soldier.cpp:84:6:bool Soldier::is_alive()	16	static

@@ -1,0 +1,4 @@
+../Core/Inc/Level_Manager.h:34:7:int Level_Manager::get_score() const	16	static
+../Core/Src/main.cpp:28:6:void init_graphic_tables()	8	static
+../Core/Src/main.cpp:34:9:uint8_t uint_to_str(char*, uint32_t)	24	static
+../Core/Src/main.cpp:51:5:int main()	6792	static

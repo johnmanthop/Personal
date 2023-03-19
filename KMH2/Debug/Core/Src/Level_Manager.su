@@ -1,0 +1,6 @@
+../Core/Inc/Soldier.h:26:6:int Soldier::get_y() const	16	static
+../Core/Inc/Soldier.h:38:19:Drawable_Content Soldier::get_drawable() const	16	static
+../Core/Src/Level_Manager.cpp:12:1:Level_Manager::Level_Manager()	2272	static
+../Core/Src/Level_Manager.cpp:23:6:bool Level_Manager::tick()	16	static
+../Core/Src/Level_Manager.cpp:34:6:bool Level_Manager::check_end()	32	static
+../Core/Src/Level_Manager.cpp:47:6:void Level_Manager::draw()	2240	static

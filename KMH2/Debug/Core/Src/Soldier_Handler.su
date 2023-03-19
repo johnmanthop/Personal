@@ -1,0 +1,4 @@
+../Core/Src/Soldier_Handler.cpp:12:1:Soldier_Handler::Soldier_Handler()	24	static
+../Core/Src/Soldier_Handler.cpp:20:6:bool Soldier_Handler::command_player(Soldier&, Soldier*)	24	static
+../Core/Src/Soldier_Handler.cpp:35:6:void Soldier_Handler::command_enemy(Soldier&, uint8_t)	24	static
+../Core/Src/Soldier_Handler.cpp:48:6:void Soldier_Handler::command_enemies(Soldier*)	24	static
