@@ -4,5 +4,6 @@ Stuff I want to do in the fututre are stored here (so I won't forget anything im
 * Mips architecture emulator
 * Medal of honor infiltrator style game
 * STM32 style gameboy console with game | Done
-* Scheduler for stm32 microcontroller
-* C++ language automatic flowchart creator
+* 2D pixel game (in the making)
+* Retro style game/s for pc and PSX
+* pixel based 3d graphics engine
