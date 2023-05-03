@@ -4,6 +4,9 @@ Stuff I want to do in the fututre are stored here (so I won't forget anything im
 * Mips architecture emulator
 * Medal of honor infiltrator style game
 * STM32 style gameboy console with game | Done
-* 2D pixel game (in the making)
+* 2D makrocity game (in the making)
 * Retro style game/s for pc and PSX
-* pixel based 3d graphics engine
+  > Racing Game
+  > Warcraft style RPG
+  > Exploration FPS style
+* Retro pixel/console Game Engine from scratch
