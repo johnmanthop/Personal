@@ -5,8 +5,8 @@ Stuff I want to do in the fututre are stored here (so I won't forget anything im
 * Medal of honor infiltrator style game
 * STM32 style gameboy console with game | Done
 * 2D makrocity game (in the making)
-* Retro style game/s for pc and PSX
+* Small raw OpenGL demo (in the making)
+* Retro style game/s
   > Racing Game
   > Warcraft style RPG
   > Exploration FPS style
-* Retro pixel/console Game Engine from scratch
